@@ -1,0 +1,8 @@
+{
+  "name": "Trainee Info Cards",
+  "description": "Mobile portal for viewing and managing trainee information cards with role-based volunteer access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
